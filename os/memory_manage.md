@@ -22,5 +22,5 @@
 
 利用分页技术将一维连续虚拟空间划分为一个个页，进程的虚拟地址有两部分组成：页号P和页内地址（偏移地址）W。这两个部分的虚拟地址经过地址变换后，映射到物理内存的对应单元。具体变换过程如下图：
 
-![image](https://github.com/dj99fei/study/blob/master/os/images/169C5A42-7A63-4EF7-B5F7-397E16A44424.png?raw=true)
+![image](https://github.com/dj99fei/study/blob/master/os/images/169C5A42-7A63-4EF7-B5F7-397E16A44425.png?raw=true)
 
